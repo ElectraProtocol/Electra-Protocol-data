@@ -1,0 +1,31 @@
+//Unused until the major upgrade
+{
+    "lin": {
+        "launcher": "launcher-1.0.0/XEP-Pro-Launcher-L",
+        "xepd": "xepd-1.0.0.0/xepdl",
+        "pro": "pro-1.0.0.0/XEP-Pro-L",
+        "v_launcher": 100,
+        "v_xepd": 100,
+        "v_pro": 3000
+    },
+    "mac": {
+        "launcher": "launcher-1.0.0/XEP-Pro-Launcher-M",
+        "xepd": "oxepd-1.0.0.0/xepdm",
+        "pro": "pro-1.0.0.0/XEP-Pro-M",
+        "v_launcher": 100,
+        "v_xepd": 100,
+        "v_pro": 3000
+    },
+    "win": {
+        "launcher": "launcher-1.0.0/XEP-Pro-Launcher",
+        "xepd": "xepd-1.0.0.0/xepd.exe",
+        "pro": "pro-1.0.0.0/XEP-Pro",
+        "v_launcher": 100,
+        "v_xepd": 100,
+        "v_pro": 3000
+    },
+    "content": {
+        "newsid": 1,
+        "db_account": 1
+    }
+}
