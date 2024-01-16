@@ -28,6 +28,7 @@
         "db_omni": 1,
         "db_account": 1,
         "db_assets": 1,
-        "db_nft": 1
+        "db_nft": 1,
+        "bootstrap": "Bootstrap_1"
     }
 }
