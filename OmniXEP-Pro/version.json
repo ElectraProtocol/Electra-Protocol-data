@@ -1,24 +1,24 @@
 {
     "lin": {
-        "launcher": "launcher-1.0.0/OmniXEP-Pro-Launcher-L",
+        "launcher": "omnixep-launcher-1.0.0/OmniXEP-Pro-Launcher-L",
         "omnixepd": "omnixepd-0.1.0.0/omnixepdl",
-        "pro": "pro-1.0.0.0/OmniXEP-Pro-L",
+        "pro": "omnixep-pro-1.0.0.0/OmniXEP-Pro-L",
         "v_launcher": 100,
         "v_omnixepd": 10,
         "v_pro": 1000
     },
     "mac": {
-        "launcher": "launcher-1.0.0/OmniXEP-Pro-Launcher-M",
+        "launcher": "omnixep-launcher-1.0.0/OmniXEP-Pro-Launcher-M",
         "omnixepd": "omnixepd-0.1.0.0/omnixepdm",
-        "pro": "pro-1.0.0.0/OmniXEP-Pro-M",
+        "pro": "omnixep-pro-1.0.0.0/OmniXEP-Pro-M",
         "v_launcher": 100,
         "v_omnixepd": 10,
         "v_pro": 1000
     },
     "win": {
-        "launcher": "launcher-1.0.0/OmniXEP-Pro-Launcher",
+        "launcher": "omnixep-launcher-1.0.0/OmniXEP-Pro-Launcher",
         "omnixepd": "omnixepd-0.1.0.0/omnixepd.exe",
-        "pro": "pro-1.0.0.0/OmniXEP-Pro",
+        "pro": "omnixep-pro-1.0.0.0/OmniXEP-Pro",
         "v_launcher": 100,
         "v_omnixepd": 10,
         "v_pro": 1000
