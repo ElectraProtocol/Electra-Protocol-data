@@ -58,5 +58,17 @@
         "image": "009.png",
         "title": "IMPORTANT [wXEP] liquidity pool",
         "url": "https://twitter.com/ElectraProtocol/status/1713913311895392340"
+    },
+    {
+        "description": "OmniXEP is a Layer 2 running on top of Electra Protocol.\nIt integrates a native smart contract computing system, allowing Token and NFT creation without any development knowledge.",
+        "image": "010.png",
+        "title": "OmniXEP is out!",
+        "url": "https://www.electraprotocol.com/omnixep/"
+    },
+    {
+        "description": " Electra Protocol is redefining asset management!\nOur Evolvable NFTs (ENFTs) are changing the game, making real-world assets (RWA) dynamic and updatable.",
+        "image": "011.png",
+        "title": "XEP: Real World Assets",
+        "url": "https://twitter.com/ElectraProtocol/status/1779487412479017259"
     }
 ]
