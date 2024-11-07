@@ -2,26 +2,26 @@
     "lin": {
         "launcher": "omnixep-launcher-1.0.0/OmniXEP-Pro-Launcher-L",
         "omnixepd": "omnixepd-0.1.1.0/omnixepdl",
-        "pro": "omnixep-pro-1.1.1.0/OmniXEP-Pro-L",
+        "pro": "omnixep-pro-1.1.1.1/OmniXEP-Pro-L",
         "v_launcher": 100,
         "v_omnixepd": 11,
-        "v_pro": 1110
+        "v_pro": 1111
     },
     "mac": {
         "launcher": "omnixep-launcher-1.0.0/OmniXEP-Pro-Launcher-M",
         "omnixepd": "omnixepd-0.1.1.0/omnixepdm",
-        "pro": "omnixep-pro-1.1.1.0/OmniXEP-Pro-M",
+        "pro": "omnixep-pro-1.1.1.1/OmniXEP-Pro-M",
         "v_launcher": 100,
         "v_omnixepd": 11,
-        "v_pro": 1110
+        "v_pro": 1111
     },
     "win": {
         "launcher": "omnixep-launcher-1.0.0/OmniXEP-Pro-Launcher.exe",
         "omnixepd": "omnixepd-0.1.1.0/omnixepd.exe",
-        "pro": "omnixep-pro-1.1.1.0/OmniXEP-Pro.exe",
+        "pro": "omnixep-pro-1.1.1.1/OmniXEP-Pro.exe",
         "v_launcher": 100,
         "v_omnixepd": 11,
-        "v_pro": 1110
+        "v_pro": 1111
     },
     "content": {
         "newsid": 2,
