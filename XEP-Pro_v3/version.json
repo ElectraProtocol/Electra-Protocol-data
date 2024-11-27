@@ -1,0 +1,26 @@
+{
+    "lin": {
+        "v_updater": 200,
+        "updater": "updater-2.0.0/XEP-Pro-updater-L",
+        "v_xepd": 100,
+        "xepd": "xepd-1.0.0.0/xepdl",
+        "v_wallet": 3000,
+        "wallet": "wallet-3.0.0.0/XEP-Pro-L"
+    },
+    "mac": {
+        "v_updater": 200,
+        "updater": "updater-2.0.0/XEP-Pro-updater-M",
+        "v_xepd": 100,
+        "xepd": "xepd-1.0.0.0/xepdm",
+        "v_wallet": 3000,
+        "wallet": "wallet-3.0.0.0/XEP-Pro-M"
+    },
+    "win": {
+        "v_updater": 200,
+        "updater": "updater-2.0.0/XEP-Pro-updater.exe",
+        "v_xepd": 100,
+        "xepd": "xepd-1.0.0.0/xepd.exe",
+        "v_wallet": 3000,
+        "wallet": "wallet-3.0.0.0/XEP-Pro.exe"
+    }
+}
