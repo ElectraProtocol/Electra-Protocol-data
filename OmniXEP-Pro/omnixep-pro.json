@@ -1,0 +1,17 @@
+{
+    "lin": {
+        "version": "1.1.1.1",
+        "sha256": "85155e47a403557918a7696a06cba69963de392eacba135549ede0ac88c34e10",
+        "url": "omnixep-pro-1.1.1.1/OmniXEP-Pro-L"
+    },
+    "mac": {
+        "version": "1.1.1.1",
+        "sha256": "343cee208dc07fb954016a82454f7373c49a7ecb61b9da266cd38a4bf61ec69c",
+        "url": "omnixep-pro-1.1.1.1/OmniXEP-Pro-M"
+    },
+    "win": {
+        "version": "1.1.1.1",
+        "sha256": "3a4d4a3b28b564cdb534b6f673b030256e31ad77fe3c25ccec1f11edd7c755b6",
+        "url": "omnixep-pro-1.1.1.1/OmniXEP-Pro.exe"
+    }
+}
