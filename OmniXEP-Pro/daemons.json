@@ -1,0 +1,41 @@
+{
+    "lin": {
+      "updater": {
+        "version": "2.0.0",
+        "revision": "r01",
+        "sha256": "",
+        "url": "omnixep-launcher-2.0.0/OmniXEP-Pro-Launcher-L"
+      },
+      "omnixepd": {
+        "version": "0.1.1",
+        "sha256": "",
+        "url": "omnixepd-0.1.1.0/omnixepdl"
+      }
+    },
+    "mac": {
+      "updater": {
+        "version": "2.0.0",
+        "revision": "r01",
+        "sha256": "",
+        "url": "omnixep-launcher-2.0.0/OmniXEP-Pro-Launcher-M"
+      },
+      "omnixepd": {
+        "version": "0.1.1",
+        "sha256": "",
+        "url": "omnixepd-0.1.1.0/omnixepdm"
+      }
+    },
+    "win": {
+      "updater": {
+        "version": "2.0.0",
+        "revision": "r01",
+        "sha256": "41a2e9031799239ba8d33eae2e743db54af99f8b798edfe90d5e1b5506d4f136",
+        "url": "omnixep-launcher-2.0.0/OmniXEP-Pro-Launcher.exe"
+      },
+      "omnixepd": {
+        "version": "0.1.1",
+        "sha256": "b1f8d63d51f0d259c00e8050a3d8edf0b94a4d73a21bb9e42ad64fe96b8deea0",
+        "url": "omnixepd-0.1.1.0/omnixepd.exe"
+      }
+    }
+}
