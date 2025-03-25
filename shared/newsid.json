@@ -1,0 +1,114 @@
+[
+    {
+        "id": 0,
+        "revision": 1,
+        "description": "Electra Protocol is a layer one blockchain in constant evolution.\nVisit our website to learn more about us.",
+        "image": "000.png",
+        "title": "Electra Protocol",
+        "url": "https://www.electraprotocol.com/"
+    },
+    {
+        "id": 1,
+        "revision": 1,
+        "description": "Binance Charity and Electra Protocol joins in Tree Millions Alliance.\nYou can read more about the Tree Millions Alliance and make your donation by visiting the Binance Charity website.",
+        "image": "001.png",
+        "title": "Binance Charity",
+        "url": "https://www.electraprotocol.com/binance-charity-and-electra-protocol-joins-in-tree-millions-alliance/"
+    },
+    {
+        "id": 2,
+        "revision": 1,
+        "description": "At the end of 2021 the XEP coins, which have not been used, were burnt.\nAs a result, the 2021 XEP premine address now has a balance of 0 XEP.",
+        "image": "002.png",
+        "title": "2021 Burn Premine ",
+        "url": "https://www.electraprotocol.com/remaining-2021-premine-burnt/"
+    },
+    {
+        "id": 3,
+        "revision": 1,
+        "description": "Electra Protocol is launching its SpaceShip Station, a new NFT game.",
+        "image": "003.png",
+        "title": "StarShip - XEP Station",
+        "url": "https://www.electraprotocol.com/electra-protocol-and-starship-partnership/"
+    },
+    {
+        "id": 4,
+        "revision": 1,
+        "description": "Electra Protocol is now listed on MEXC exchange.\n\nPair: XEP-USDT",
+        "image": "004.png",
+        "title": "MEXC - Listing",
+        "url": "https://www.mexc.com/en-US/register?inviteCode=mexc-1Q7Wk"
+    },
+    {
+        "id": 5,
+        "revision": 1,
+        "description": "Electra Protocol’s wrapped token WXEP has been integrated into AtomicDEX.\nAtomicDEX is an atomic swap decentralized platform powered by Komodo.",
+        "image": "005.png",
+        "title": "AtomicDEX",
+        "url": "https://www.electraprotocol.com/wrapped-xep-listed-on-atomicdex/"
+    },
+    {
+        "id": 6,
+        "revision": 1,
+        "description": "We would like to share the XEP Flyer which contains a brief summary of our blockchain and can be used as a promotional material.",
+        "image": "006.png",
+        "title": "XEP Flyer",
+        "url": "https://twitter.com/ElectraProtocol/status/1596058549050019840?s=20&t=rHvJAdI-7lEjhvsZ9tnGRg"
+    },
+    {
+        "id": 7,
+        "revision": 1,
+        "description": "Omnixep testnet first phase is now open to everyone!\n\nStart or restart your XEP-Pro wallet to enter your new OmniXep journey",
+        "image": "007.png",
+        "title": "OmniXEP testing is started!",
+        "url": "https://twitter.com/ElectraProtocol/status/1673345646751887367"
+    },
+    {
+        "id": 8,
+        "revision": 1,
+        "description": "We've heard your feedback, and we're delighted to announce that Komodo Wallet is now live as our premier decentralized platform for Wrapped XEP to XEP swaps. ",
+        "image": "008.png",
+        "title": "New Swap Platform in Komodo wallet",
+        "url": "https://www.electraprotocol.com/knowledgebase/wxep-xep-conversion/"
+    },
+    {
+        "id": 9,
+        "revision": 1,
+        "description": "Due to the ongoing global liquidity concerns of BUSD, the team have decided to remove the project-managed BUSD LP and switch to USDT LP.",
+        "image": "009.png",
+        "title": "IMPORTANT [wXEP] liquidity pool",
+        "url": "https://twitter.com/ElectraProtocol/status/1713913311895392340"
+    },
+    {
+        "id": 10,
+        "revision": 1,
+        "description": "OmniXEP is a Layer 2 running on top of Electra Protocol.\nIt integrates a native smart contract computing system, allowing Token and NFT creation without any development knowledge.",
+        "image": "010.png",
+        "title": "OmniXEP is out!",
+        "url": "https://www.electraprotocol.com/omnixep/"
+    },
+    {        
+        "id": 11,
+        "revision": 1,
+        "description": " Electra Protocol is redefining asset management!\nOur Evolvable NFTs (ENFTs) are changing the game, making real-world assets (RWA) dynamic and updatable.",
+        "image": "011.png",
+        "title": "XEP: Real World Assets",
+        "url": "https://twitter.com/ElectraProtocol/status/1779487412479017259"
+    },
+    {
+        "id": 12,
+        "revision": 1,
+        "description": " OmniXEP wallet is now available on #Android and #iOS.\nYour tokens and NFTs, always close to you!",
+        "image": "012.png",
+        "title": "OmniXEP mobile wallet",
+        "url": "https://fxtwitter.com/ElectraProtocol/status/1867214182690533820"
+    },
+    {
+        "id": 13,
+        "revision": 1,
+        "description": " We've built a simple way to swap $XEP and $WXEP. No third-party bridges. No extra steps. Just secure, direct swaps available today for everyone:",
+        "image": "013.png",
+        "title": "XEP crosschain bridge",
+        "url": "https://x.com/ElectraProtocol/status/1889366640615149693"
+    }
+]
