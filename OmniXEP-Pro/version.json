@@ -8,12 +8,12 @@
         "v_pro": 1200
     },
     "mac": {
-        "launcher": "omnixep-launcher-1.0.0/OmniXEP-Pro-Launcher-M",
+        "launcher": "omnixep-launcher-1.0.1/OmniXEP-Pro-Launcher-M",
         "omnixepd": "omnixepd-0.1.1.0/omnixepdm",
-        "pro": "omnixep-pro-1.1.1.1/OmniXEP-Pro-M",
-        "v_launcher": 100,
+        "pro": "omnixep-pro-1.2.0.0/OmniXEP-Pro-M",
+        "v_launcher": 101,
         "v_omnixepd": 11,
-        "v_pro": 1111
+        "v_pro": 1200
     },
     "win": {
         "launcher": "omnixep-launcher-1.0.0/OmniXEP-Pro-Launcher.exe",
