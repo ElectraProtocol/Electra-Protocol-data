@@ -9,10 +9,10 @@
     },
     "mac": {
         "launcher": "omnixep-launcher-1.0.1/OmniXEP-Pro-Launcher-M",
-        "omnixepd": "omnixepd-0.1.1.0/omnixepdm",
+        "omnixepd": "omnixepd-1.0.0/omnixepdm",
         "pro": "omnixep-pro-1.2.0.0/OmniXEP-Pro-M",
         "v_launcher": 101,
-        "v_omnixepd": 11,
+        "v_omnixepd": 100,
         "v_pro": 1200
     },
     "win": {
