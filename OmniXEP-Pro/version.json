@@ -17,10 +17,10 @@
     },
     "win": {
         "launcher": "omnixep-launcher-1.0.1/OmniXEP-Pro-Launcher.exe",
-        "omnixepd": "omnixepd-0.1.1.0/omnixepd.exe",
+        "omnixepd": "omnixepd-1.0.0/omnixepd.exe",
         "pro": "omnixep-pro-1.2.0.0/OmniXEP-Pro.exe",
         "v_launcher": 101,
-        "v_omnixepd": 11,
+        "v_omnixepd": 100,
         "v_pro": 1200
     },
     "content": {
