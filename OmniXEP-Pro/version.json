@@ -1,10 +1,10 @@
 {
     "lin": {
         "launcher": "omnixep-launcher-1.0.1/OmniXEP-Pro_Launcher-L",
-        "omnixepd": "omnixepd-0.1.1.0/omnixepdl",
+        "omnixepd": "omnixepd-1.0.0/omnixepdl",
         "pro": "omnixep-pro-1.2.0.0/OmniXEP-Pro-L",
         "v_launcher": 101,
-        "v_omnixepd": 11,
+        "v_omnixepd": 100,
         "v_pro": 1200
     },
     "mac": {
